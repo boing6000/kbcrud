@@ -1,10 +1,10 @@
 {
 	"name": "@kosbit/form",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/boing6000/kb-crud"
+		"url": "https://github.com/boing6000/kbcrud"
 	},
 	"author": {
 		"name": "Andre Teodoro",
